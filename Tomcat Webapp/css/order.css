@@ -1,0 +1,16 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+body  {
+  background-image: url("../images/Background.png");
+  background-color: #cccccc;
+}
+
+p {
+  color: white;
+}
+
+.debug {
+  display: none;
+}
